@@ -1,0 +1,15 @@
+/Users/luisangelmeneses/Desktop/repos/VariableExercise/VariableExercise/bin/Debug/net6.0/VariableExercise
+/Users/luisangelmeneses/Desktop/repos/VariableExercise/VariableExercise/bin/Debug/net6.0/VariableExercise.deps.json
+/Users/luisangelmeneses/Desktop/repos/VariableExercise/VariableExercise/bin/Debug/net6.0/VariableExercise.runtimeconfig.json
+/Users/luisangelmeneses/Desktop/repos/VariableExercise/VariableExercise/bin/Debug/net6.0/VariableExercise.dll
+/Users/luisangelmeneses/Desktop/repos/VariableExercise/VariableExercise/bin/Debug/net6.0/VariableExercise.pdb
+/Users/luisangelmeneses/Desktop/repos/VariableExercise/VariableExercise/obj/Debug/net6.0/VariableExercise.csproj.AssemblyReference.cache
+/Users/luisangelmeneses/Desktop/repos/VariableExercise/VariableExercise/obj/Debug/net6.0/VariableExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisangelmeneses/Desktop/repos/VariableExercise/VariableExercise/obj/Debug/net6.0/VariableExercise.AssemblyInfoInputs.cache
+/Users/luisangelmeneses/Desktop/repos/VariableExercise/VariableExercise/obj/Debug/net6.0/VariableExercise.AssemblyInfo.cs
+/Users/luisangelmeneses/Desktop/repos/VariableExercise/VariableExercise/obj/Debug/net6.0/VariableExercise.csproj.CoreCompileInputs.cache
+/Users/luisangelmeneses/Desktop/repos/VariableExercise/VariableExercise/obj/Debug/net6.0/VariableExercise.dll
+/Users/luisangelmeneses/Desktop/repos/VariableExercise/VariableExercise/obj/Debug/net6.0/refint/VariableExercise.dll
+/Users/luisangelmeneses/Desktop/repos/VariableExercise/VariableExercise/obj/Debug/net6.0/VariableExercise.pdb
+/Users/luisangelmeneses/Desktop/repos/VariableExercise/VariableExercise/obj/Debug/net6.0/VariableExercise.genruntimeconfig.cache
+/Users/luisangelmeneses/Desktop/repos/VariableExercise/VariableExercise/obj/Debug/net6.0/ref/VariableExercise.dll
